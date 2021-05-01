@@ -1,2 +1,4 @@
 # 259900_Embeddedsystem
-Embedded Systems
+Embedded Systems C miniproject 
+Seat heating application 
+
